@@ -1,5 +1,5 @@
 function playRockPaperScissor(player1, player2) {
-  if (player1 === player2) {
+  if (player1 == player2) {
     return "Empate!";
   } else {
     if (
